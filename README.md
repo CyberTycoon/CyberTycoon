@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Silas Okanlawon 👋</h1>
+<p align="center">
+  <em>AI Engineer • Full-Stack Developer • Data Scientist • Automation Architect</em>
+</p>
 
-<!--
-**CyberTycoon/CyberTycoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I'm a results-driven AI Engineer and Full-Stack Developer with deep expertise in **Machine Learning**, **Web Development**, and **Automation**. I build intelligent systems that **bridge AI with scalable web platforms** — from running LLMs like TinyLlama locally to automating end-to-end business operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ⚡ _“I don't just build software — I engineer value.”_
+
+---
+
+### 💼 What I Do
+- 🧠 **AI/ML Systems** – LLMs, Deep Learning, Computer Vision, NLP, Predictive Analytics  
+- 🌐 **Full-Stack Web Dev** – Next.js, React, FastAPI, Node.js, Tailwind CSS  
+- 🤖 **Automation** – Bots, Web Scraping, RPA (Selenium), Workflow Engineering  
+- 📊 **Data Science** – Forecasting, Analytics Dashboards, Data Pipelines  
+- ☁️ **DevOps** – Docker, GitHub Actions, Firebase, Supabase
+
+---
+
+### 🔥 Notable Projects
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **ScholarAI** | AI-powered research assistant using Gemini API & local LLMs for private document analysis | Next.js, Ollama, Tesseract.js, Tailwind |
+| **Emotion Detection** | Live facial emotion recognition for mental health apps | CNN, OpenCV |
+| **YOLO Surveillance** | Real-time object detection system for smart CCTV | PyTorch, YOLOv5 |
+| **Court Reservation Bot** | Selenium bot automating weekly slot booking | Python, Selenium |
+| **Stock Price Forecasting** | Predictive model using LSTM for stable financial trends | TensorFlow, NumPy |
+| **Content Generator** | Gemini + Stable Diffusion for automated creator tools | Hugging Face, Diffusers |
+
+---
+
+### 🧰 Tools & Technologies
+
+**Languages:**  
+`Python` `JavaScript` `HTML/CSS` `SQL`
+
+**Frontend:**  
+`React` `Next.js` `Tailwind CSS` `Framer Motion`
+
+**Backend & APIs:**  
+`FastAPI` `Flask` `Node.js` `Firebase` `Supabase`
+
+**AI/ML:**  
+`PyTorch` `TensorFlow` `scikit-learn` `YOLO` `spaCy` `Hugging Face`
+
+**Automation:**  
+`Selenium` `BeautifulSoup` `GitHub Actions` `Docker`
+
+**Databases:**  
+`MongoDB` `PostgreSQL` `Firebase Realtime DB` `MySQL`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CyberTycoon&show_icons=true&theme=radical" alt="Silas GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberTycoon&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Reach Out
+
+- ✉️ **Email:** [okanlawonsilas@gmail.com](mailto:okanlawonsilas@gmail.com)  
+- 🌍 **Portfolio:** [silas-portfolio-liard.vercel.app](https://silas-portfolio-liard.vercel.app)  
+- 🔗 **X**(https://x.com/SilasOkanla1?t=xBPTJqZ92E3oMpO6QzCang&s=09)  
+
+---
+
+> “_Let your code think, let your product speak, and let the user smile._” 💡
