@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-I'm a results-driven AI Engineer and Full-Stack Developer with deep expertise in **Machine Learning**, **Web Development**, and **Automation**. I build intelligent systems that **bridge AI with scalable web platforms** — from running LLMs like TinyLlama locally to automating end-to-end business operations.
+I'm a results-driven AI Engineer and Full-Stack Developer with deep expertise in **Machine Learning**, **Web Development**, and **Automation**. I build intelligent systems that **bridge AI with scalable web platforms** — from running LLMs like Llama, Minstral etc locally to automating end-to-end business operations.
 
 > ⚡ _“I don't just build software — I engineer value.”_
 
