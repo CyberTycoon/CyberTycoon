@@ -55,12 +55,7 @@ I'm a results-driven AI Engineer and Full-Stack Developer with deep expertise in
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberTycoon&show_icons=true&theme=radical" alt="Silas GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberTycoon&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
