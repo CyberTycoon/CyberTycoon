@@ -63,7 +63,7 @@ I'm a results-driven AI Engineer and Full-Stack Developer with deep expertise in
 
 - ✉️ **Email:** [okanlawonsilas@gmail.com](mailto:okanlawonsilas@gmail.com)  
 - 🌍 **Portfolio:** [silas-portfolio-liard.vercel.app](https://silas-portfolio-liard.vercel.app)  
-- 🔗 **X**(https://x.com/SilasOkanla1?t=xBPTJqZ92E3oMpO6QzCang&s=09)  
+- 🔗 **X**(https://x.com/on_a_mission)  
 
 ---
 
