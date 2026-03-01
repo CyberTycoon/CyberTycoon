@@ -26,49 +26,49 @@ I'm a results-driven Senior Full-Stack Software Engineer with deep expertise in 
 ## Technical Skills
 
 **Languages:**  
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" height="20" alt="TypeScript"/&gt; TypeScript &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" alt="JavaScript"/&gt; JavaScript &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python"/&gt; Python &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="20" height="20" alt="Go"/&gt; Go
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) TypeScript
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python
+![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg) Go
 
 **Frontend:**  
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React"/&gt; React &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" height="20" alt="Next.js"/&gt; Next.js &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="20" height="20" alt="Tailwind CSS"/&gt; Tailwind CSS &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" alt="HTML5"/&gt; HTML5 &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" alt="CSS3"/&gt; CSS3
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) Next.js
+![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg) Tailwind CSS
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) HTML5
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) CSS3
 
 **Backend:**  
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" height="20" alt="Node.js"/&gt; Node.js &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="20" height="20" alt="FastAPI"/&gt; FastAPI &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="20" height="20" alt="Flask"/&gt; Flask &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" width="20" height="20" alt="Celery"/&gt; Celery &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="20" height="20" alt="Go"/&gt; Go
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) Node.js
+![FastAPI](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg) FastAPI
+![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg) Flask
+![Celery](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg) Celery
+![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg) Go
 
 **Databases:**  
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" alt="PostgreSQL"/&gt; PostgreSQL &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="20" height="20" alt="MongoDB"/&gt; MongoDB &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="20" height="20" alt="Redis"/&gt; Redis &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20" height="20" alt="MySQL"/&gt; MySQL
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) PostgreSQL
+![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) MongoDB
+![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg) Redis
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL
 
 **AI/ML:**  
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="20" height="20" alt="PyTorch"/&gt; PyTorch &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="20" height="20" alt="TensorFlow"/&gt; TensorFlow &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" height="20" alt="NumPy"/&gt; NumPy &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20" height="20" alt="Pandas"/&gt; Pandas
+![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg) PyTorch
+![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) TensorFlow
+![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg) NumPy
+![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) Pandas
 
 **DevOps & Cloud:**  
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" alt="Docker"/&gt; Docker &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20" height="20" alt="Kubernetes"/&gt; Kubernetes &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="20" height="20" alt="AWS"/&gt; AWS &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="GitHub Actions"/&gt; GitHub Actions &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" height="20" alt="Git"/&gt; Git
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) Docker
+![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg) Kubernetes
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) AWS
+![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) GitHub Actions
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git
 
 **E-Commerce & Tools:**  
-&lt;img src="https://raw.githubusercontent.com/medusajs/medusa/develop/www/docs/static/img/logo-icon.png" width="20" height="20" alt="Medusa JS"/&gt; Medusa JS &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20" alt="VS Code"/&gt; VS Code &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20" alt="Figma"/&gt; Figma &nbsp;
-&lt;img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20" height="20" alt="Linux"/&gt; Linux
+&lt;img src="https://raw.githubusercontent.com/medusajs/medusa/develop/www/docs/static/img/logo-icon.png" width="20" height="20" alt="Medusa JS"/&gt; Medusa JS
+![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) VS Code
+![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) Figma
+![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) Linux
 
 ---
 
