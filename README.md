@@ -25,7 +25,6 @@ I'm a results-driven Senior Full-Stack Software Engineer with deep expertise in 
 ## Technical Skills
 
 **Languages:**  
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) TypeScript
 ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript
 ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python
 ![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg) Go
@@ -64,7 +63,7 @@ I'm a results-driven Senior Full-Stack Software Engineer with deep expertise in 
 ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) Git
 
 **E-Commerce & Tools:**  
-&lt;img src="https://raw.githubusercontent.com/medusajs/medusa/develop/www/docs/static/img/logo-icon.png" width="20" height="20" alt="Medusa JS"/&gt; Medusa JS
+![Medusa JS](https://raw.githubusercontent.com/medusajs/medusa/develop/www/docs/static/img/logo-icon.png) Medusa JS
 ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) VS Code
 ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg) Figma
 ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) Linux
