@@ -1,7 +1,6 @@
-&lt;h1 align="center"&gt;Hi there, I'm Silas Okanlawon&lt;/h1&gt;
-&lt;p align="center"&gt;
-  &lt;em&gt;Senior Full-Stack Software Engineer • AI Engineer • Data Scientist&lt;/em&gt;
-&lt;/p&gt;
+# Hi there, I'm Silas Okanlawon
+
+*Senior Full-Stack Software Engineer • AI Engineer • Data Scientist*
 
 ---
 
