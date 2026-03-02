@@ -96,7 +96,6 @@ I'm a results-driven Senior Full-Stack Software Engineer with deep expertise in 
 ## Reach Out
 
 - **Email:** [okanlawonsilas@gmail.com](mailto:okanlawonsilas@gmail.com)
-- **Portfolio:** [silas-portfolio-liard.vercel.app](https://silas-portfolio-liard.vercel.app)
 - **X:** [x.com/on_a_mission001](https://x.com/on_a_mission001)
 
 ---
