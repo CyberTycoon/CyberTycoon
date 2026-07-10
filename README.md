@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Silas%20Okanlawon&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%20Engineer%20%7C%20Backend%20Systems%20Architect&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,100:BAE6FD&height=200&section=header&text=Silas%20Okanlawon&fontSize=45&fontColor=0C4A6E&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%20Engineer%20%7C%20Backend%20Systems%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+production-grade+backend+systems;Designing+AI-powered+applications;Architecting+scalable+web+platforms;Currently+learning+Go+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Building+production-grade+backend+systems;Designing+AI-powered+applications;Architecting+scalable+web+platforms;Currently+learning+Go+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -127,16 +127,16 @@ Resume analysis platform delivering rule-based evaluation with explainable scori
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CyberTycoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberTycoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CyberTycoon&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0284C7&icon_color=0284C7&text_color=334155"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberTycoon&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0284C7&text_color=334155"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberTycoon&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberTycoon&theme=default&hide_border=true&background=FFFFFF&stroke=0284C7&ring=0284C7&fire=0284C7&currStreakLabel=0284C7"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberTycoon&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberTycoon&theme=minimal&hide_border=true&bg_color=FFFFFF&color=0284C7&line=0284C7&point=0C4A6E"/>
 
 </div>
 
@@ -145,7 +145,7 @@ Resume analysis platform delivering rule-based evaluation with explainable scori
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CyberTycoon&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=CyberTycoon&theme=flat&no-frame=true&row=1&column=7&margin-w=10"/>
 </div>
 
 <br/>
@@ -165,8 +165,6 @@ Resume analysis platform delivering rule-based evaluation with explainable scori
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=CyberTycoon&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,100:BAE6FD&height=100&section=footer" width="100%"/>
 
 </div>
