@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,100:BAE6FD&height=200&section=header&text=Silas%20Okanlawon&fontSize=45&fontColor=0C4A6E&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%20Engineer%20%7C%20Backend%20Systems%20Architect&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F2FE,100:BAE6FD&height=200&section=header&text=Silas%20Okanlawon&fontSize=45&fontColor=0C4A6E&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Systems%20%7C%20Product%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Building+production-grade+backend+systems;Designing+AI-powered+applications;Architecting+scalable+web+platforms;Currently+learning+Go+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0284C7&center=true&vCenter=true&width=650&lines=Building+full-stack+AI-powered+products;Designing+intelligent+applications+end-to-end;Architecting+scalable+systems+%26+APIs;Currently+learning+Go)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,22 +16,22 @@
 
 <br/>
 
-## 🧭 About Me
+## ▸ About
 
-I'm a **backend-focused Full Stack Engineer** specializing in scalable APIs, AI-powered systems, and developer tooling. My work centers on building robust infrastructure that connects intelligent models with real-world applications — systems that handle complex workflows, real-time data, and high-reliability environments.
+I'm a **Full Stack Engineer building AI-powered systems** end to end — from the interfaces people use to the models and infrastructure running underneath. I enjoy the whole surface area: crafting clean, responsive UIs, architecting the APIs and services behind them, and wiring intelligent models into products that solve real problems.
 
 ```
 const focus = {
-  ai:        "AI-powered products & developer tools",
-  backend:   "Backend-heavy system architecture",
-  apis:      "Production-ready APIs & microservices",
-  data:      "Data-driven platforms & analytics systems",
+  fullstack: "End-to-end product engineering, UI to database",
+  ai:        "AI-powered products, agents & developer tools",
+  systems:   "Scalable APIs, microservices & real-time data",
+  platforms: "Data-driven platforms & analytics systems",
 };
 ```
 
 <br/>
 
-## 🛠️ Tech Stack
+## ▸ Tech Stack
 
 <div align="center">
 
@@ -76,7 +76,7 @@ const focus = {
 
 <br/>
 
-## 🚀 Key Projects
+## ▸ Key Projects
 
 <div align="center">
 
@@ -84,7 +84,7 @@ const focus = {
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Pedestal
+### Pedestal
 FastAPI CLI scaffolding tool for generating production-ready FastAPI projects — auth, Redis caching, DB integration, and structured architecture out of the box.
 
 `Python` `FastAPI` `Typer` `PostgreSQL` `Redis` `Docker`
@@ -92,7 +92,7 @@ FastAPI CLI scaffolding tool for generating production-ready FastAPI projects �
 </td>
 <td width="50%" valign="top">
 
-### ✨ Quira AI
+### Quira AI
 AI-powered content generation platform supporting text and image generation through customizable templates.
 
 `Next.js` `Node.js` `TypeScript` `LLM APIs` `PostgreSQL` `Redis`
@@ -102,7 +102,7 @@ AI-powered content generation platform supporting text and image generation thro
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Multi-Vendor Marketplace
+### Multi-Vendor Marketplace
 Scalable e-commerce ecosystem with vendor dashboards, storefronts, and admin infrastructure.
 
 `Next.js` `Node.js` `PostgreSQL` `Redis` `Stripe` `Algolia`
@@ -110,7 +110,7 @@ Scalable e-commerce ecosystem with vendor dashboards, storefronts, and admin inf
 </td>
 <td width="50%" valign="top">
 
-### 📄 MyResumeAI
+### MyResumeAI
 Resume analysis platform delivering rule-based evaluation with explainable scoring.
 
 `Next.js 15` `FastAPI` `PostgreSQL` `Redis`
@@ -123,7 +123,7 @@ Resume analysis platform delivering rule-based evaluation with explainable scori
 
 <br/>
 
-## 📊 GitHub Analytics
+## ▸ GitHub Analytics
 
 <div align="center">
 
@@ -140,17 +140,10 @@ Resume analysis platform delivering rule-based evaluation with explainable scori
 
 </div>
 
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CyberTycoon&theme=flat&no-frame=true&row=1&column=7&margin-w=10"/>
-</div>
 
 <br/>
 
-## 📈 Commit History
+## ▸ Commit History
 
 <div align="center">
   <a href="https://commit-history.com/CyberTycoon">
