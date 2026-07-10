@@ -1,132 +1,172 @@
-<h1 align="center">Hi, I'm Silas Okanlawon</h1>
+<div align="center">
 
-<p align="center">
-Full Stack Software Engineer | AI Engineer | Backend Systems Architect
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Silas%20Okanlawon&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%20Engineer%20%7C%20Backend%20Systems%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-I design and build production-grade backend systems, AI powered applications, and scalable web platforms.
-</p>
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+production-grade+backend+systems;Designing+AI-powered+applications;Architecting+scalable+web+platforms;Currently+learning+Go+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## About Me
+<br/>
 
-I am a backend focused Full Stack Software Engineer specializing in scalable APIs, AI powered systems, and developer tooling.
+[![Email](https://img.shields.io/badge/Email-okanlawonsilas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okanlawonsilas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Silas%20Okanlawon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-okanlawon-897491367)
+[![GitHub](https://img.shields.io/badge/GitHub-CyberTycoon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberTycoon)
 
-My work focuses on building robust infrastructure that connects intelligent models with real world applications. I enjoy architecting systems that handle complex workflows, real time data, and high reliability environments.
+</div>
 
-My core focus areas include
+<br/>
 
-• AI powered products and developer tools  
-• Backend heavy system architecture  
-• Production ready APIs and microservices  
-• Data driven platforms and analytics systems  
+## 🧭 About Me
 
----
+I'm a **backend-focused Full Stack Engineer** specializing in scalable APIs, AI-powered systems, and developer tooling. My work centers on building robust infrastructure that connects intelligent models with real-world applications — systems that handle complex workflows, real-time data, and high-reliability environments.
 
-## Tech Stack
+```
+const focus = {
+  ai:        "AI-powered products & developer tools",
+  backend:   "Backend-heavy system architecture",
+  apis:      "Production-ready APIs & microservices",
+  data:      "Data-driven platforms & analytics systems",
+};
+```
 
-### Languages
+<br/>
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
-</p>
+## 🛠️ Tech Stack
 
-### Frontend
+<div align="center">
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-</p>
+**Languages**
 
-### Backend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
-</p>
+**Frontend**
 
-### DevOps and Infrastructure
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
-</p>
+**Backend**
 
-### AI and Data Systems
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-LLMs  
-Retrieval Augmented Generation  
-Vector Databases  
-LangChain  
-FAISS  
-Prompt Engineering  
+**DevOps & Infrastructure**
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-## Key Projects
+**AI & Data Systems**
 
-### Pedestal
-FastAPI CLI scaffolding tool for generating production ready FastAPI projects with authentication, Redis caching, database integration and structured architecture.
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge)
 
-Tech  
-Python, FastAPI, Typer, PostgreSQL, Redis, Docker
+</div>
 
----
+<br/>
 
-### Quira AI
-AI powered content generation platform supporting both text and image generation through customizable templates.
+## 🚀 Key Projects
 
-Tech  
-Next.js, Node.js, TypeScript, LLM APIs, PostgreSQL, Redis
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Multi Vendor Marketplace Platform
-Scalable ecommerce ecosystem with vendor dashboards, storefronts and admin infrastructure.
+### 🏗️ Pedestal
+FastAPI CLI scaffolding tool for generating production-ready FastAPI projects — auth, Redis caching, DB integration, and structured architecture out of the box.
 
-Tech  
-Next.js, Node.js, PostgreSQL, Redis, Stripe, Algolia
+`Python` `FastAPI` `Typer` `PostgreSQL` `Redis` `Docker`
 
----
+</td>
+<td width="50%" valign="top">
 
-### MyResumeAI
-Resume analysis platform delivering rule based evaluation with explainable scoring.
+### ✨ Quira AI
+AI-powered content generation platform supporting text and image generation through customizable templates.
 
-Tech  
-Next.js 15, FastAPI, PostgreSQL, Redis
+`Next.js` `Node.js` `TypeScript` `LLM APIs` `PostgreSQL` `Redis`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## GitHub Stats
+### 🛒 Multi-Vendor Marketplace
+Scalable e-commerce ecosystem with vendor dashboards, storefronts, and admin infrastructure.
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cybertycoon&show_icons=true&theme=tokyonight"/>
-</p>
+`Next.js` `Node.js` `PostgreSQL` `Redis` `Stripe` `Algolia`
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cybertycoon&theme=tokyonight"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### 📄 MyResumeAI
+Resume analysis platform delivering rule-based evaluation with explainable scoring.
 
-## Connect With Me
+`Next.js 15` `FastAPI` `PostgreSQL` `Redis`
 
-Email  
-okanlawonsilas@gmail.com
+</td>
+</tr>
+</table>
 
-LinkedIn  
-https://www.linkedin.com/in/silas-okanlawon-897491367
+</div>
 
-GitHub  
-https://github.com/cybertycoon
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CyberTycoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberTycoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyberTycoon&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CyberTycoon&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=CyberTycoon&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+</div>
+
+<br/>
+
+## 📈 Commit History
+
+<div align="center">
+  <a href="https://commit-history.com/CyberTycoon">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/CyberTycoon?theme=dark" />
+      <img alt="CyberTycoon's commit history" src="https://commit-history.com/embed/CyberTycoon" />
+    </picture>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=CyberTycoon&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=100&section=footer" width="100%"/>
+
+</div>
